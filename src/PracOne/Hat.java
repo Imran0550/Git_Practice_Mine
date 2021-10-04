@@ -7,4 +7,8 @@ public class Hat {
     // some lines
 
     // new lines added
+
+    public static void main(String[] args) {
+
+    }
 }
